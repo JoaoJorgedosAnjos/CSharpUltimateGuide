@@ -7,3 +7,4 @@ double ValueInches = 7 * InchesInCentimeters;
 var Sum = ValueInches + ValueFeet;
 
 Console.WriteLine($"{Sum} cm");
+Console.WriteLine("teste");
