@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Section02CSharpLanguageBasi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment02AreaOfCircle", "Assignment02AreaOfCircle\Assignment02AreaOfCircle.csproj", "{09EB1168-A4B7-448E-A656-93982FBCCC9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment03FeetToCentimeters", "Assignment03FeetToCentimeters\Assignment03FeetToCentimeters.csproj", "{158EBF45-BE39-4C2A-AA59-23292153A449}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{09EB1168-A4B7-448E-A656-93982FBCCC9B} = {F286A1F3-089C-4D86-9392-36E43F7C68A5}
+		{158EBF45-BE39-4C2A-AA59-23292153A449} = {F286A1F3-089C-4D86-9392-36E43F7C68A5}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{09EB1168-A4B7-448E-A656-93982FBCCC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{09EB1168-A4B7-448E-A656-93982FBCCC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09EB1168-A4B7-448E-A656-93982FBCCC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09EB1168-A4B7-448E-A656-93982FBCCC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158EBF45-BE39-4C2A-AA59-23292153A449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158EBF45-BE39-4C2A-AA59-23292153A449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158EBF45-BE39-4C2A-AA59-23292153A449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158EBF45-BE39-4C2A-AA59-23292153A449}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
